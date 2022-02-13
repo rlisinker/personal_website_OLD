@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-02-13-welcome/",
+    "title": "Welcome",
+    "description": "Trial post :)",
+    "author": [
+      {
+        "name": "Regina Lisinker",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-13",
+    "categories": [],
+    "contents": "\nPost #1 Test\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-13T02:25:57-06:00",
+    "input_file": {}
+  }
+]

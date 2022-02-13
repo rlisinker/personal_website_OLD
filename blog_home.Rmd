@@ -1,0 +1,40 @@
+---
+title: ""
+listing: posts
+site: distill::distill_website
+---
+ 
+```{=html}
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <style type="text/css">body {font-family: 'Roboto Mono', serif;}</style>
+
+    <style>
+      @media screen and (min-width: 768px) {
+        .container {
+          width: 768px;
+        }
+      }
+
+      body {
+        background-color: #f5e9dd;
+      }
+    </style>
+  </head>
+  
+      <div class="row mt-5">
+        <div class="mt-5">
+          <h1>Reggie in the Stacks</h1>
+          <hr style="max-width: 600px; margin-left:0; margin-top:35px;"/>
+        </div>
+      </div>
+```
+
