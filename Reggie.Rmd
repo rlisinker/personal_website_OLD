@@ -3,7 +3,7 @@ title: "Regina Lisinker"
 image: "storage_mask.jpeg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/rlisinker"
+    url: "https://linkedin.com/regina-lisinker"
   - label: GitHub
     url: "https://github.com/rlisinker"
   - label: Email
