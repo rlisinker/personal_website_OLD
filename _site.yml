@@ -3,10 +3,12 @@ title: "Regina Lisinker"
 description: |
   Regina Lisinker
 output_dir: "docs"
-navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+# navbar:
+#   right:
+#     - text: "Home"
+#       href: index.html
+#     - text: "About"
+#       href: about.html
+#     - text: "Regina"
+#       href: Reggie.html
 output: distill::distill_article
