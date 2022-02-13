@@ -1,0 +1,19 @@
+---
+title: "to-do list"
+author: "Regina"
+date: "2/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## To Do List
+
+- fix link css on blog_home so it doesn't hover as blue
+- figure out how to make blog page also solana
+  - gotta do this on the welcome.Rmd and then will probably need to set up some sort of template
+- publish? 
+  - figure out how to use the github pages thing.. do i even need it?
+  - should I get a domain for the site?
