@@ -1,6 +1,6 @@
 ---
 title: "Regina Lisinker"
-image: "storage_mask.jpeg"
+image: "storage_mask.png"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/regina-lisinker"
