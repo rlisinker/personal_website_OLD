@@ -11,9 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## To Do List
 
+#### Formatting   
+
 - fix link css on blog_home so it doesn't hover as blue
 - figure out how to make blog page also solana
   - gotta do this on the welcome.Rmd and then will probably need to set up some sort of template
+  
+  
+#### Content
+
+- add resume link?
 - publish? 
   - figure out how to use the github pages thing.. do i even need it?
   - should I get a domain for the site?
