@@ -1,19 +1,19 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Regina Lisinker"
+image: "storage_mask.jpeg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://linkedin.com/rlisinker"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/rlisinker"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:lisin003@umn.edu"
+  - label: Blog (in progress)
+    url: "google.com"
 output:
-  postcards::jolla
+  postcards::solana
 ---
- 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+
+I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. 
+I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course). 
+
