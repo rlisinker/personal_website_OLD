@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:lisin003@umn.edu"
   - label: Blog
-    url: blog.html
+    url: blog_home.html
 site: distill::distill_website  
 output:
   postcards::solana
