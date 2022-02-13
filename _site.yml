@@ -5,10 +5,12 @@ description: |
 output_dir: "docs"
 # navbar:
 #   right:
-#     - text: "Home"
-#       href: index.html
-#     - text: "About"
-#       href: about.html
-#     - text: "Regina"
-#       href: Reggie.html
+    # - text: "Home"
+    #   href: index.html
+    # - text: "About"
+    #   href: about.html
+    # - text: "Regina"
+    #   href: index.html
+    # - text: "Blog"
+    #   href: blog.html
 output: distill::distill_article

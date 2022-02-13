@@ -6,30 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-02-12T23:49:18-06:00"
+      "last_modified": "2022-02-13T00:12:32-06:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Reggie in the Stacks",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-02-13T02:26:13-06:00"
     },
     {
       "path": "index.html",
-      "title": "Regina Lisinker",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-02-12T23:49:19-06:00"
-    },
-    {
-      "path": "Reggie.html",
-<<<<<<< HEAD
-      "title": "Regina Lisinker",
-      "author": [],
-      "contents": "\n\n          \n          \n          \n          \n    \n    \n      \n        \n          Regina Lisinker\n          \n            \n                \n                  \n                    LinkedIn\n                  \n                \n              \n                            \n                \n                  \n                    GitHub\n                  \n                \n              \n                            \n                \n                  \n                    Email\n                  \n                \n              \n                            \n                \n                  \n                    Blog (in progress)\n                  \n                \n              \n                          \n        \n\n        \n          \n      \n      \n        \n          I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).\n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Regina Lisinker\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                    \n                    \n                      Blog (in progress)\n                    \n                  \n                                  \n              \n            \n            \n              I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).\n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-02-13T00:26:29-06:00"
-=======
       "title": "Regina <\/br> Lisinker",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n    \n    \n      \n        \n          Regina  Lisinker\n          \n            \n                \n                  \n                    LinkedIn\n                  \n                \n              \n                            \n                \n                  \n                    GitHub\n                  \n                \n              \n                            \n                \n                  \n                    Email\n                  \n                \n              \n                            \n                \n                  \n                    Blog\n                  \n                \n              \n                          \n        \n\n        \n          \n      \n      \n        \n          \n          Bio\n          I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).\n          \n          \n          Education\n          M.A. Statistics EducationSeptember 2021 - Present\n          Quantitative Methods in Education\n          Educational Psychology Department\n          University of Minnesota, Twin Cities\n          B.S. StatisticsSeptember 2016 - June 2020\n          Minor in Gerontology\n          California Polytechnic State University, San Luis Obispo\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Regina  Lisinker\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                    \n                    \n                      Blog\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).\n              \n              \n              Education\n              M.A. Statistics EducationSeptember 2021 - Present\n              Quantitative Methods in Education\n              Educational Psychology Department\n              University of Minnesota, Twin Cities\n              B.S. StatisticsSeptember 2016 - June 2020\n              Minor in Gerontology\n              California Polytechnic State University, San Luis Obispo\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-02-13T01:09:34-06:00"
->>>>>>> main
+      "last_modified": "2022-02-13T02:26:26-06:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }

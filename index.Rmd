@@ -1,18 +1,36 @@
 ---
-title: "Regina Lisinker"
-description: |
-  Welcome to the website. I hope you enjoy it!
-site: distill::distill_website
+title: "Regina </br> Lisinker"
+image: "storage_mask.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/regina-lisinker"
+  - label: GitHub
+    url: "https://github.com/rlisinker"
+  - label: Email
+    url: "mailto:lisin003@umn.edu"
+  - label: Blog
+    url: blog.html
+site: distill::distill_website  
+output:
+  postcards::solana
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+## Bio
+I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities.
+I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course). 
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+## Education
+**M.A.** Statistics Education   
+*September 2021 - Present*   
+Quantitative Methods in Education    
+Educational Psychology Department   
+University of Minnesota, Twin Cities    
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
 
-```
+**B.S.** Statistics    
+*September 2016 - June 2020*    
+Minor in Gerontology   
+California Polytechnic State University, San Luis Obispo   
+
+
 
