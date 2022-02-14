@@ -15,6 +15,38 @@ output:
   postcards::solana
 ---
 
+
+<!-- pink color is #f5e9dd -->
+<!-- greyish is #343a40 -->
+<!-- purplish blue #7A82AB -->
+<!-- pale green #D3E2B1 -->
+  <!-- even paler #DEE9C3 -->
+  <!-- and even paler #E6EED2 -->
+<!-- avocado #99B030 -->
+  <!-- paler #CBDC7F -->
+  <!-- even paler #DEE9AF -->
+  <!-- palest #EBF2CF -->
+
+```{=html}
+<style type="text/css">
+  body {
+    font-family: 'Roboto Mono', serif; color: #343a40;
+  }
+      
+  <!-- .btn { -->
+  <!--   color: #7A82AB; -->
+  <!--   border-color: #7A82AB; -->
+  <!-- } -->
+
+  .btn:hover {
+    background-color: #7A82AB;
+    color: #f5e9dd;
+    border-color: #7A82AB;
+  }
+</style>
+```
+
+
 ## Bio
 I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities.
 I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course). 

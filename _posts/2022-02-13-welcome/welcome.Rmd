@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 description: |
-  Trial post :)
+  Description: Trial post :)
 author:
   - name: Regina Lisinker
 date: 2022-02-13
@@ -11,11 +11,57 @@ output:
   
 ---
 
+<!-- pink color is #f5e9dd -->
+<!-- greyish is #343a40 -->
+<!-- purplish blue #7A82AB -->
+<!-- pale green #D3E2B1 -->
+<!-- even paler #DEE9C3 -->
+<!-- and even paler #E6EED2 -->
+<!-- avocado #99B030 -->
+<!-- paler #CBDC7F -->
+<!-- even paler #DEE9AF -->
+<!-- palest #EBF2CF -->
+
+<!-- could put all that is below into a different .css for blog posts if I want it to stay diff colors -->
+
+```{=html}
+
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <style type="text/css">body {font-family: 'Roboto Mono', serif; color: #343a40}</style>
+
+    <style>
+      @media screen and (min-width: 768px) {
+        .container {
+          width: 768px;
+        }
+      }
+
+      body {
+        background-color: #EBF2CF;
+      }
+      a:hover{
+        color: #99B030;
+        text-decoration:none
+      }
+    </style>
+  </head>
+
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Post #1 Test
+Body: Post #1 Test
+[link](https://www.google.com)
 
 

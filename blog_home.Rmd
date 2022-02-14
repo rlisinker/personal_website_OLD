@@ -1,40 +1,66 @@
 ---
 title: ""
-listing: posts
 site: distill::distill_website
+listing: posts
+css: "mock_solana.css"
 ---
- 
+
+
+<!-- pink color is #f5e9dd -->
+<!-- greyish is #343a40 -->
+<!-- purplish blue #7A82AB -->
+<!-- pale green #D3E2B1 -->
+<!-- even paler #DEE9C3 -->
+<!-- and even paler #E6EED2 -->
+<!-- avocado #99B030 -->
+<!-- paler #CBDC7F -->
+<!-- even paler #DEE9AF -->
+<!-- palest #EBF2CF -->
+
 ```{=html}
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
-    <style type="text/css">body {font-family: 'Roboto Mono', serif;}</style>
-
-    <style>
-      @media screen and (min-width: 768px) {
-        .container {
-          width: 768px;
-        }
-      }
-
-      body {
-        background-color: #f5e9dd;
-      }
-    </style>
-  </head>
-  
-      <div class="row mt-5">
-        <div class="mt-5">
-          <h1>Reggie in the Stacks</h1>
-          <hr style="max-width: 600px; margin-left:0; margin-top:35px;"/>
-        </div>
-      </div>
+<div class="row mt-5">
+  <div class="mt-5">
+    <h1>Reggie in the Stacks</h1>
+    <hr style="max-width: 600px; margin-left:0; margin-top:35px;"/>
+  </div>
+</div>
 ```
 
+<!-- all below is in the .css -->
+
+<!-- <html lang="en"> -->
+<!--   <head> -->
+<!--     <!-- Required meta tags --> -->
+<!--     <meta charset="utf-8"> -->
+<!--     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+
+<!--     <!-- Bootstrap CSS --> -->
+<!--     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"> -->
+
+<!--     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"> -->
+
+<!-- <style type="text/css"> -->
+
+<!--   @media screen and (min-width: 768px) { -->
+<!--     .container { -->
+<!--       width: 768px; -->
+<!--     } -->
+<!--   } -->
+<!--   html * { -->
+<!--     font-family: 'Roboto Mono', monospace; -->
+<!--     color: #343a40; -->
+<!--   } -->
+<!-- </style> -->
+
+<!-- <style> -->
+
+<!--   .posts-list .post-preview h2:hover{ -->
+<!--     color: #7A82AB; -->
+<!--   } -->
+
+<!--   body { -->
+<!--     background-color: #f5e9dd; -->
+<!--   } -->
+<!-- </style> -->
+<!-- </head> -->

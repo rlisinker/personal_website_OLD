@@ -1,26 +1,11 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-02-13T04:12:38-06:00"
-    },
-    {
       "path": "blog_home.html",
       "title": "",
       "author": [],
-      "contents": "\n\n  \n    \n    body {font-family: 'Roboto Mono', serif;}\n      @media screen and (min-width: 768px) {\n        .container {\n          width: 768px;\n        }\n      }\n\n      body {\n        background-color: #f5e9dd;\n      }\n    \n        \n          Reggie in the Stacks\n          \n      \n\n\n\n",
-      "last_modified": "2022-02-13T04:12:39-06:00"
-    },
-    {
-      "path": "index.html",
-      "title": "Regina <\/br> Lisinker",
-      "author": [],
-      "contents": "\n\n          \n          \n          \n          \n    \n    \n      \n        \n          Regina  Lisinker\n          \n            \n                \n                  \n                    LinkedIn\n                  \n                \n              \n                            \n                \n                  \n                    GitHub\n                  \n                \n              \n                            \n                \n                  \n                    Email\n                  \n                \n              \n                            \n                \n                  \n                    Blog\n                  \n                \n              \n                          \n        \n\n        \n          \n      \n      \n        \n          \n          Bio\n          I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).\n          \n          \n          Education\n          M.A. Statistics EducationSeptember 2021 - Present\n          Quantitative Methods in Education\n          Educational Psychology Department\n          University of Minnesota, Twin Cities\n          B.S. StatisticsSeptember 2016 - June 2020\n          Minor in Gerontology\n          California Polytechnic State University, San Luis Obispo\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Regina  Lisinker\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                    \n                    \n                      Blog\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              I am a graduate student in the Statistics Education program at the University of Minnesota, Twin Cities. I am an avid Pinterest user, I love karaoke, and I stop to pet every dog I pass (after asking their owner, of course).\n              \n              \n              Education\n              M.A. Statistics EducationSeptember 2021 - Present\n              Quantitative Methods in Education\n              Educational Psychology Department\n              University of Minnesota, Twin Cities\n              B.S. StatisticsSeptember 2016 - June 2020\n              Minor in Gerontology\n              California Polytechnic State University, San Luis Obispo\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-02-13T04:13:15-06:00"
+      "contents": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n    Reggie in the Stacks\n    \n\n\n\n\n",
+      "last_modified": "2022-02-13T19:41:14-06:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -2,7 +2,7 @@
   {
     "path": "posts/2022-02-13-welcome/",
     "title": "Welcome",
-    "description": "Trial post :)",
+    "description": "Description: Trial post :)",
     "author": [
       {
         "name": "Regina Lisinker",
@@ -11,9 +11,9 @@
     ],
     "date": "2022-02-13",
     "categories": [],
-    "contents": "\nPost #1 Test\n\n\n\n",
+    "contents": "\n\n\n\n\n\n  \n  \n\n\n\n\n  \n    \n    body {font-family: 'Roboto Mono', serif; color: #343a40}\n      @media screen and (min-width: 768px) {\n        .container {\n          width: 768px;\n        }\n      }\n\n      body {\n        background-color: #EBF2CF;\n      }\n      a:hover{\n        color: #99B030;\n        text-decoration:none\n      }\n    Body: Post #1 Test link\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-02-13T02:25:57-06:00",
+    "last_modified": "2022-02-13T16:05:22-06:00",
     "input_file": {}
   }
 ]
