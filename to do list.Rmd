@@ -13,7 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Misc
 
-- name of link has the <br>
+- title has the <br> that shows up when you send the link
+  - added name to yaml, does this help?
 
 #### Formatting   
 
