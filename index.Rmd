@@ -32,17 +32,51 @@ output:
   body {
     font-family: 'Roboto Mono', serif; color: #343a40;
   }
-      
+  
   <!-- .btn { -->
   <!--   color: #7A82AB; -->
   <!--   border-color: #7A82AB; -->
   <!-- } -->
-
+  
+  <!-- .btn { -->
+  <!--   box-shadow: none !important; -->
+  <!--   outline: none !important; -->
+  <!--   outline-width:0; -->
+  <!--   -webkit-box-shadow: none !important; -->
+  <!-- } -->
+  
   .btn:hover {
     background-color: #7A82AB;
     color: #f5e9dd;
     border-color: #7A82AB;
   }
+
+  .btn:focus {
+    box-shadow: none !important;
+    outline: none !important;
+  }
+
+  a:focus {
+    <!-- box-shadow-color:  #7A82AB; -->
+    <!-- outline-color: #7A82AB; -->
+    box-shadow: none !important;
+    outline: none !important;
+    background-color:  #7A82AB;
+    padding-top: 9px;
+    padding-bottom: 6px;
+    border-color:#7A82AB;
+  }
+
+
+  .btn:active {
+    outline: none:
+    background-color: #343a40;
+    color: #f5e9dd;
+    border-color: #343a40;
+  }
+  
+
+  
 </style>
 ```
 
