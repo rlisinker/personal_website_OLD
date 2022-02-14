@@ -1,0 +1,71 @@
+
+/* base variables */
+
+/* Edit the CSS properties in this file to create a custom
+   Distill theme. Only edit values in the right column
+   for each row; values shown are the CSS defaults.
+   To return any property to the default,
+   you may set its value to: unset
+   All rows must end with a semi-colon.                      */
+
+/* Optional: embed custom fonts here with `@import`          */
+/* This must remain at the top of this file.                 */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+:root {
+    --pink: #f5e9dd;
+    --dark: #343a40;
+    --purple: #7A82AB;
+    --pale_green: #D3E2B1;
+    --lighterg: #DEE9C3;
+    --lightestg: #E6EED2;
+    --avo: #99B030;
+    --lavo: #CBDC7F;
+    --pavo: #DEE9AF;
+    --palest: #EBF2CF;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  background-color: var(--pink);
+  color: var(--dark);
+  max-width: 90%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+section {
+  width: 50%;
+  margin: 0 auto;
+}
+
+h1 {
+    color: var(--dark);
+    font-size: 2rem;
+    margin-bottom: 1vh;
+    font-family: "Roboto Mono", monospace;
+}
+
+.posts-list .post-preview h2{
+  font-family: "Roboto Mono", monospace;
+}
+
+.posts-list .post-preview p{
+  font-family: "Roboto Mono", monospace;
+}
+
+a{
+  color: var(--dark);
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+.posts-list .post-preview h2:hover{
+  color: var(--purple)
+}
+
+
+
+
+
