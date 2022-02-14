@@ -22,6 +22,5 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Content
 
 - add resume link?
-- publish? 
-  - figure out how to use the github pages thing.. do i even need it?
-  - should I get a domain for the site?
+- it's published -> would need to keep updating as I'm making small fixes
+  - maybe get a domain at some point?
