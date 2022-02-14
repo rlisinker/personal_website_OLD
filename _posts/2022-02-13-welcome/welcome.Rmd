@@ -22,8 +22,6 @@ output:
 <!-- even paler #DEE9AF -->
 <!-- palest #EBF2CF -->
 
-<!-- could put all that is below into a different .css for blog posts if I want it to stay diff colors -->
-
 ```{=html}
 
 <html lang="en">
