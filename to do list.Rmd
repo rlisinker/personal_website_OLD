@@ -18,8 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Formatting   
 
 - copy mock_solana template for blog posts (if I want different color like in welcome.rmd)
-- fix colors when you click on buttons and shadow also 
-  
+
 #### Content
 
 - add resume link?

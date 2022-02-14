@@ -5,7 +5,6 @@ listing: posts
 css: "mock_solana.css"
 ---
 
-
 <!-- pink color is #f5e9dd -->
 <!-- greyish is #343a40 -->
 <!-- purplish blue #7A82AB -->
@@ -18,7 +17,6 @@ css: "mock_solana.css"
 <!-- palest #EBF2CF -->
 
 ```{=html}
-
 <div class="row mt-5">
   <div class="mt-5">
     <h1>Reggie in the Stacks</h1>
@@ -31,11 +29,11 @@ css: "mock_solana.css"
 
 <!-- <html lang="en"> -->
 <!--   <head> -->
-<!--     <!-- Required meta tags --> -->
+<!--     <!-- Required meta tags --> 
 <!--     <meta charset="utf-8"> -->
 <!--     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
 
-<!--     <!-- Bootstrap CSS --> -->
+<!--     <!-- Bootstrap CSS --> 
 <!--     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"> -->
 
 <!--     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"> -->
