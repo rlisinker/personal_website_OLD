@@ -1,7 +1,5 @@
 ---
-title: |
-    | Regina 
-    | Lisinker 
+title: Regina </br> Lisinker  
 image: "photos/storage_mask.png"
 links:
   - label: LinkedIn
@@ -12,7 +10,7 @@ links:
     url: "mailto:lisin003@umn.edu"
   # - label: Blog
   #   url: blog_home.html
-site: distill::distill_website  
+site: distill::distill_website
 output:
   postcards::solana
 ---
@@ -29,6 +27,8 @@ output:
   <!-- palest #EBF2CF -->
 
 ```{=html}
+
+
 <style type="text/css">
   body {
     font-family: 'Roboto Mono', serif; color: #343a40;
