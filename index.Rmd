@@ -1,6 +1,7 @@
 ---
-title: "Regina </br> Lisinker"
-name: "Regina Lisinker"
+title: |
+    | Regina 
+    | Lisinker 
 image: "photos/storage_mask.png"
 links:
   - label: LinkedIn

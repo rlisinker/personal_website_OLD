@@ -11,10 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## To Do List
 
-#### Misc
-
-- title has the <br> that shows up when you send the link
-  - added name to yaml, does this help?
 
 #### Formatting   
 
@@ -22,6 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Content
 
+- add blog back at some point
 - add resume link?
 - it's published -> would need to keep updating as I'm making small fixes
   - maybe get a domain at some point?
