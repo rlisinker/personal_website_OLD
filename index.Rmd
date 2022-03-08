@@ -27,7 +27,10 @@ output:
   <!-- palest #EBF2CF -->
 
 ```{=html}
-
+<script type="text/javascript">
+  newPageTitle = 'Regina Lisinker';
+  document.title = newPageTitle;
+</script>
 
 <style type="text/css">
   body {
