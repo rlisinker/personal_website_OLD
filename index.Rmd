@@ -27,10 +27,19 @@ output:
   <!-- palest #EBF2CF -->
 
 ```{=html}
+
+<head>
+    <title>
+        Regina Lisinker
+    </title>
+</head>
+
 <script type="text/javascript">
   newPageTitle = 'Regina Lisinker';
   document.title = newPageTitle;
 </script>
+
+document.querySelector("head > title")
 
 <style type="text/css">
   body {
